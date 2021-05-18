@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "santiago",
+    "password": "qwer1234!@#$",
+    "database": "skael",
+    "host": "35.223.238.237",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "santiago",
+    "password": "qwer1234!@#$",
+    "database": "skael",
+    "host": "35.223.238.237",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "santiago",
+    "password": "qwer1234!@#$",
+    "database": "skael",
+    "host": "35.223.238.237",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
